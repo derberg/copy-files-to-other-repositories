@@ -29,7 +29,7 @@
   "homepage": "https://github.com/derberg/manage-files-in-multiple-repositories#readme",
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "@actions/github": "^4.0.0",
+    "@actions/github": "^6.0.0",
     "@octokit/plugin-retry": "^3.0.6",
     "debug": "^4.3.1",
     "fs-extra": "^9.0.1",
